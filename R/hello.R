@@ -8,6 +8,6 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-intro <- function() {
+hello <- function() {
   print("Function for stardartization of GWAS data")
 }
